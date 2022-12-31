@@ -4,7 +4,7 @@
 	"description": "Single Page App to display live stock data",
 	"license": "MIT",
 	"dependencies": {
-		"next": "^8.0.0",
+		"next": "^13.1.1",
 		"next-redux-wrapper": "^2.0.0",
 		"node-sass": "^4.9.3",
 		"normalize-scss": "^7.0.1",
@@ -14,8 +14,8 @@
 		"react-dom": "^16.8.1",
 		"react-redux": "^6.0.0",
 		"redux": "^3.7.2",
-		"sass-loader": "^7.1.0",
-		"styled-jsx": "^3.2.1",
+		"sass-loader": "^13.2.0",
+		"styled-jsx": "^5.1.1",
 		"styled-jsx-css-loader": "^0.3.0",
 		"apexcharts": "^3.6.4",
 		"isomorphic-fetch": "^2.2.1"
